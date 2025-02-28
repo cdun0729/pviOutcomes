@@ -2,7 +2,7 @@
 An R package for analyzing outcomes in patients with early versus non-early Peripheral Vascular Intervention (PVI) treatments.
 
 # Overview
-The pviOutcomes package provides a comprehensive toolset for analyzing patient outcomes following peripheral vascular interventions. It connects to OMOP CDM databases, extracts patient cohorts, and performs statistical analysis to compare early versus non-early intervention strategies. Key outcomes analyzed include:
+The pviOutcomes package provides a comprehensive toolset for analyzing patient outcomes following diagnosis of claudication. It connects to OMOP CDM databases, extracts patient cohorts, and performs statistical analysis to compare early versus non-early intervention strategies. Key outcomes analyzed include:
 
 * Chronic Limb-Threatening Ischemia (CLTI)
 * Repeat PVI rates
